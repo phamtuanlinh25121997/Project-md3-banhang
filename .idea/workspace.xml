@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="156f0d88-54fe-49fb-92a8-bba59abcadac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MD3-Project-BanMayTinh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/config/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/config/InputMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/config/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/controller/CartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/controller/TrademarkController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/model/CartItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/model/RoleName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/model/Trademark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/service/CartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/service/IGenericService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/service/TrademarkService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/util/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/util/order.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/util/products.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/util/trademarh.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/util/users.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/view/CartManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/view/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/view/Navbar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/view/OrderManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/view/PcShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/view/ProductManger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/view/Trademarkmanager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pcShop/view/UserMananger.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2S8KEh7qACa7OMkzvxABHC7o7GE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/IdeaProjects/MD3-Project-BanMayTinh&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected="Application.PcShop">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pcShop.view.Main" />
+      <module name="MD3-Project-BanMayTinh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pcShop.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PcShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pcShop.view.PcShop" />
+      <module name="MD3-Project-BanMayTinh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pcShop.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PcShop" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="156f0d88-54fe-49fb-92a8-bba59abcadac" name="Changes" comment="" />
+      <created>1688522657750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688522657750</updated>
+      <workItem from="1688522658748" duration="2000" />
+      <workItem from="1688796443786" duration="4208000" />
+      <workItem from="1689124272219" duration="20756000" />
+      <workItem from="1689841700698" duration="969000" />
+      <workItem from="1690857255749" duration="1095000" />
+      <workItem from="1696922345184" duration="3782000" />
+      <workItem from="1696991432357" duration="1035000" />
+      <workItem from="1697438220564" duration="4184000" />
+      <workItem from="1697462347562" duration="596000" />
+      <workItem from="1697502064874" duration="21000" />
+      <workItem from="1697591508086" duration="1270000" />
+      <workItem from="1697700207336" duration="2363000" />
+      <workItem from="1698033213940" duration="22000" />
+      <workItem from="1698199747724" duration="595000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
